@@ -1,5 +1,6 @@
-# :wave: Hi, I'm Tuire – Junior Developer & Designer from Tampere
-I'm starting my programmer career and looking for a junior software or web developer job in Tampere, Finland. Lately I've been coding with **Python**, but I've also used **C#, PHP, SQL** and some **JavaScript** during my studies. I've also created websites mainly with **Concrete5, CSS (Less), HTML5** and **Bootstrap** at my previous job as a web designer. **WordPress** is somewhat familiar to me as well.
+# :wave: Hi, I'm Tuire – Junior Software Developer from Tampere
+
+Lately I've been coding with **Python**, but I've also used **C#, PHP, SQL** and some **JavaScript** during my studies. I've also created websites mainly with **Concrete5, CSS (Less), HTML5** and **Bootstrap** at my previous job as a web designer. **WordPress** is somewhat familiar to me as well, and now I'm focusing on **Magento**. 
 
 I've also designed brochures, roll up banners, business cards and other marketing materials with Adobe CC programs and Canva. Additionally, I've done some copywriting, content production and search engine optimisation, too. 
 
