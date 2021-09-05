@@ -1,10 +1,11 @@
 # :wave: Hi, I'm Tuire – Junior Software Developer from Tampere
 
-Lately I've been coding with **Python**, but I've also used **C#, PHP, SQL** and some **JavaScript** during my studies. I've also created websites mainly with **Concrete5, CSS (Less), HTML5** and **Bootstrap** at my previous job as a web designer. **WordPress** is somewhat familiar to me as well, and now I'm focusing on **Magento**. 
+Lately I've been coding with **Python**, but I've also used **C#, PHP, SQL** and some **JavaScript** during my studies. I've also created websites mainly with **Concrete5, CSS (Less), HTML5** and **Bootstrap** at my previous job as a web designer. **WordPress** is somewhat familiar to me as well, and now I'm focusing on **Magento / Adobe Commerce**. 
 
 I've also designed brochures, roll up banners, business cards and other marketing materials with Adobe CC programs and Canva. Additionally, I've done some copywriting, content production and search engine optimisation, too. 
 
 ## :books: Education
+* Master of Science (Computer Science), Tampere University | **Currently studying alongside my work!**
 * Bachelor of Business Administration (Business Information Technology), Häme University of Applied Sciences
 * Bachelor of Business Administration (Business Economics), Tampere University of Applied Sciences
 * Bachelor of Arts (Nordic Philology), University of Oulu
