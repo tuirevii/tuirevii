@@ -5,7 +5,7 @@ Lately I've been coding with **Python**, but I've also used **C#, PHP, SQL** and
 I've also designed brochures, roll up banners, business cards and other marketing materials with Adobe CC programs and Canva. Additionally, I've done some copywriting, content production and search engine optimisation, too. 
 
 ## :books: Education
-* Master of Science (Computer Science), Tampere University | **Currently studying alongside my work!**
+* Master of Science (Computer Science), Tampere University | **Currently studying alongside my work! I'm focusing on human-technology interaction.**
 * Bachelor of Business Administration (Business Information Technology), Häme University of Applied Sciences
 * Bachelor of Business Administration (Business Economics), Tampere University of Applied Sciences
 * Bachelor of Arts (Nordic Philology), University of Oulu
