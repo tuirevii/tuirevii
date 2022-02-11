@@ -1,25 +1,45 @@
-# :wave: Hi, I'm Tuire – Junior Software Developer from Tampere
+# :wave: Hi, I'm Tuire – a Junior Software Developer from Tampere
+It's nice to have you here! I work as a Junior Software Developer at Digia Plc. My main duties are related to frontend development of webstores based on Magento / Adobe Commerce. I also study Computer Science at the Univerity of Tampere alongside my work. My focus is on human-technology interaction, and I'm really interested in UI & UX design. ❤️
 
-Lately I've been coding with **Python**, but I've also used **C#, PHP, SQL** and some **JavaScript** during my studies. I've also created websites mainly with **Concrete5, CSS (Less), HTML5** and **Bootstrap** at my previous job as a web designer. **WordPress** is somewhat familiar to me as well, and now I'm focusing on **Magento / Adobe Commerce**. 
+Please do not hesitate to contact me for more information! 🙂
 
-I've also designed brochures, roll up banners, business cards and other marketing materials with Adobe CC programs and Canva. Additionally, I've done some copywriting, content production and search engine optimisation, too. 
+## 👩‍💻 Technologies & Design Related Skills
+* HTML5
+* CSS/Less
+* Bootstrap
+* PHP
+* Python
+* C#
+* MySQL
+* Concrete5
+* WordPress
+* Magento / Adobe Commerce
+* Git
+* Figma
+* Draw.io
+* Adobe Photoshop
+* Adobe InDesign
+* Canva
 
 ## :books: Education
-* Master of Science (Computer Science), Tampere University | **Currently studying alongside my work! I'm focusing on human-technology interaction.**
-* Bachelor of Business Administration (Business Information Technology), Häme University of Applied Sciences
-* Bachelor of Business Administration (Business Economics), Tampere University of Applied Sciences
-* Bachelor of Arts (Nordic Philology), University of Oulu
+* Master of Science (Computer Science), Tampere University | 2021 -> **Studying alongside my work, focus on human-technology interaction**
+* Bachelor of Business Administration (Business Information Technology), Häme University of Applied Sciences | 2019
+* Bachelor of Business Administration (Business Economics), Tampere University of Applied Sciences | 2010
+* Bachelor of Arts (Nordic Philology), University of Oulu | 2008
 * Extra courses:
-  * Introduction to Programming with Python, 5 cr (MOOC), University of Helsinki
-  * Advanced Course in Programming with Python, 5 cr (MOOC), University of Helsinki
+  * Introduction to Programming with Python, 5 cr (MOOC), University of Helsinki | 2020
+  * Advanced Course in Programming with Python, 5 cr (MOOC), University of Helsinki | 2020
+  * Designing and Implementing a Webstore, 5 cr, Tampere University of Applied Sciences | 2020
 
-## :speech_balloon: Language skills
+Additionally some certifications (see my LinkedIn profile: https://www.linkedin.com/in/tuirevii/).
+
+## :speech_balloon: Language Skills
 * Finnish 
 * English
 * Swedish
 * (+ French, German and Russian)
 
-## :email: Contact me
+## :email: Contact Information
 * tuirevii@gmail.com
 * +358 40 487 1441
 * https://www.linkedin.com/in/tuirevii/
