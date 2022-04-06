@@ -1,4 +1,4 @@
-# :wave: Hi, I'm Tuire – a Junior Software Developer from Tampere
+# :wave: Hi, I'm Tuire – a UI/UX Oriented Junior Software Developer from Tampere
 It's nice to have you here! I work as a Junior Software Developer at Digia Plc. My main duties are related to frontend development of webstores based on Magento / Adobe Commerce. I also study Computer Science at the Univerity of Tampere alongside my work. My focus is on human-technology interaction, and I'm really interested in UI & UX design. ❤️
 
 Please do not hesitate to contact me for more information! 🙂
