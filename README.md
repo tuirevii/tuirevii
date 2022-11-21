@@ -3,23 +3,34 @@ It's nice to have you here! I work as a Junior Software Developer at Digia Plc. 
 
 Please do not hesitate to contact me for more information! 🙂
 
-## 👩‍💻 Technologies & Design Related Skills
+## :art: Design Related Skills and Tools
+* UI & UX Design 
+* Prototyping
+* Sketching
+* User personas
+* Usability testing
+* Figma
+* Adobe Photoshop
+* Adobe InDesign
+* Canva
+* Mural
+* Draw.io
+
+## 👩‍💻 Programming Related Skills and Tools
 * HTML5
 * CSS/Less
 * Bootstrap
+* JavaScript
 * PHP
 * Python
 * C#
 * MySQL
 * Concrete5
 * WordPress
-* Magento / Adobe Commerce
+* Magento 2 / Adobe Commerce
 * Git
-* Figma
-* Draw.io
-* Adobe Photoshop
-* Adobe InDesign
-* Canva
+* Jira
+* Docker
 
 ## :books: Education
 * Master of Science (Computer Science), Tampere University | 2021 -> **Studying alongside my work, focus on human-technology interaction**
