@@ -1,22 +1,23 @@
-# :wave: Hi, I'm Tuire – a UI/UX Oriented Junior Software Developer from Tampere
-It's nice to have you here! I work as a Junior Software Developer at Digia Plc. My main duties are related to frontend development of webstores based on Magento / Adobe Commerce. I also study Computer Science at the Univerity of Tampere alongside my work. My focus is on human-technology interaction, and I'm really interested in UI & UX design. ❤️
+# :wave: Hi, I'm Tuire – a UI/UX Oriented Software Developer from Tampere
+It's nice to have you here! I work as a Software Developer at Digia Plc. My main duties are related to frontend development of Magento / Adobe Commerce based webstores. I also study Computer Sciences at the Univerity of Tampere alongside my work. My focus is on human-technology interaction, and in future I want to work as a UI/UX Designer.
 
 Please do not hesitate to contact me for more information! 🙂
 
-## :art: Design Related Skills and Tools
+## :art: Design Related Skills & Tools
 * UI & UX Design 
-* Prototyping
-* Sketching
+* Prototypes
+* Wireframes
+* Sketches
 * User personas
 * Usability testing
+* User research
 * Figma
 * Adobe Photoshop
 * Adobe InDesign
 * Canva
 * Mural
-* Draw.io
 
-## 👩‍💻 Programming Related Skills and Tools
+## 👩‍💻 Programming Related Skills & Tools
 * HTML5
 * CSS/Less
 * Bootstrap
@@ -25,12 +26,20 @@ Please do not hesitate to contact me for more information! 🙂
 * Python
 * C#
 * MySQL
-* Concrete5
-* WordPress
-* Magento 2 / Adobe Commerce
 * Git
 * Jira
 * Docker
+
+## :pencil2: CMS
+* Magento 2 / Adobe Commerce
+* Concrete5
+* WordPress
+
+## :chart_with_upwards_trend: Data & Analytics
+* Google Analytics
+* Hotjar
+* Search Engine Optimization
+* Conversion Rate Optimization
 
 ## :books: Education
 * Master of Science (Computer Science), Tampere University | 2021 -> **Studying alongside my work, focus on human-technology interaction**
