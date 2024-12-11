@@ -15,7 +15,7 @@ Please do not hesitate to contact me for more information! 🙂
 * +358 40 487 1441
 * https://www.linkedin.com/in/tuirevii/
 
-## Skills & Tools
+## 🧰 Skills & Tools
 
 | Design  | Programming & CMS | Data & Analytics | Miscellanious |
 | ------------- | ------------- | ------------- | ------------- |
