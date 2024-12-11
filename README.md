@@ -1,4 +1,4 @@
-# Tuire Viita-aho – Future UI/UX Designer with an Interest in Accessibility 
+# Tuire Viita-aho – Future UX/UI Designer with an Interest in Accessibility 
  
 Hi there! 👋
 
@@ -15,46 +15,26 @@ Please do not hesitate to contact me for more information! 🙂
 * +358 40 487 1441
 * https://www.linkedin.com/in/tuirevii/
 
-## 🎨 Design Related Skills & Tools
-* UI & UX Design 
-* Prototypes
-* Wireframes
-* Sketches
-* User personas
-* Storyboards
-* User scenarios
-* User stories
-* Usability testing
-* User research
-* Figma
-* Adobe Photoshop
-* Adobe InDesign
-* Canva
-* Mural
-* Miro
-* Accessibility (WCAG 2.1)
+## Skills & Tools
 
-## 👩‍💻 Programming Related Skills & Tools
-* HTML5
-* CSS/Less
-* Bootstrap
-* JavaScript
-* PHP
-* Python
-* C++
-* Git
-* Jira
-
-## ✏️ CMS
-* Magento 2 / Adobe Commerce
-* Concrete5
-* WordPress
-
-## 📈 Data & Analytics
-* Google Analytics
-* Hotjar
-* Search Engine Optimization
-* Conversion Rate Optimization
+| Design  | Programming & CMS | Data & Analytics | Miscellanious |
+| ------------- | ------------- | ------------- | ------------- |
+| UI & UX Design | HTML5 | Google Analytics | Accessibility (WCAG 2.1) |
+| Prototypes | CSS/Less | Search engine optimization (SEO) | Jira |
+| Wireframes | JavaScript | Conversion rate optimization (CRO) | Project management |
+| Sketches | Python | Hotjar | Content creation |
+| User personas | C++ | | Copywriting |
+| Storyboards | PHP | | Communication |
+| User scenarios | Git | | Social kills |
+| User stories | Jira |
+| Usability testing | Magento 2 / Adobe Commerce |
+| User research | Concrete5 |
+| Figma | WordPress |
+| Adobe Photoshop | |
+| Adobe InDesign | |
+| Canva | |
+| Mural | |
+| Miro | |
 
 ## 🏫 Education
 * Master of Science (Computer Science), Tampere University | 7/2025 (estimated)
