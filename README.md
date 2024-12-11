@@ -25,7 +25,7 @@ Please do not hesitate to contact me for more information! 🙂
 | Sketches | Python | Hotjar | Content creation |
 | User personas | C++ | | Copywriting |
 | Storyboards | PHP | | Communication |
-| User scenarios | Git | | Social kills |
+| User scenarios | Git | | Social skills |
 | User stories | Jira |
 | Usability testing | Magento 2 / Adobe Commerce |
 | User research | Concrete5 |
