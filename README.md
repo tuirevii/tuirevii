@@ -54,9 +54,10 @@ Please do not hesitate to contact me for more information! 🙂
 - AWS Discovery Day – an official introduction to AWS (Gofore)
 
 ## 💬 Language Skills
-* Finnish 
-* English
-* Swedish
-* (+ French, German and Russian)
-
+* Finnish - native
+* English - proficient
+* Swedish - good
+* French  - limited
+* German  - limited
+* Russian - basics
 
