@@ -17,7 +17,7 @@ Please do not hesitate to contact me for more information! 🙂
 
 ## 🧰 Skills & Tools
 
-| Design  | Programming & CMS | Data & Analytics | Miscellanious |
+| Design  | Programming & CMS | Data & Analytics | Miscellaneous |
 | ------------- | ------------- | ------------- | ------------- |
 | UI & UX Design | HTML5 | Google Analytics | Accessibility (WCAG 2.1) |
 | Prototypes | CSS/Less | Search engine optimization (SEO) | Jira |
