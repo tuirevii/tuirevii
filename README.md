@@ -17,24 +17,45 @@ Please do not hesitate to contact me for more information! 🙂
 
 ## 🧰 Skills & Tools
 
-| Design  | Programming & CMS | Data & Analytics | Miscellaneous |
-| ------------- | ------------- | ------------- | ------------- |
-| UI & UX Design | HTML5 | Google Analytics | Accessibility (WCAG 2.1) |
-| Prototypes | CSS/Less | Search engine optimization (SEO) | Jira |
-| Wireframes | JavaScript | Conversion rate optimization (CRO) | Project management |
-| Sketches | Python | Hotjar | Content creation |
-| User personas | C++ | | Copywriting |
-| Storyboards | PHP | | Communication |
-| User scenarios | Git | | Social skills |
-| User stories | Jira |
-| Usability testing | Magento 2 / Adobe Commerce |
-| User research | Concrete5 |
-| Figma | WordPress |
-| Adobe Photoshop | |
-| Adobe InDesign | |
-| Canva | |
-| Mural | |
-| Miro | |
+### Design
+- UI & UX design
+- User research
+- Prototypes, wireframes & sketches
+- User personas, stories & scenarios
+- Usability testing & evaluation
+- Graphic design
+- Figma
+- Adobe InDesign & Photoshop
+- Canva
+- Miro
+- Mural
+
+### Programming
+- HTML5
+- CSS/Less
+- JavaScript
+- PHP
+- Python
+- C++
+- Git
+  
+### CMS
+- Magento 2 / Adobe Commerce
+- WordPress
+- Concrete5
+
+### Data & Analytics
+- Google Analytics
+- Search engine & conversion rate optimisation
+- Hotjar
+
+### Miscellaneous 
+- Accessibility (WCAG)
+- Project management
+- Social & teamwork skills
+- Communication
+- Copywriting & content creation
+- Jira
 
 ## 🏫 Education
 * Master of Science (Computer Science), Tampere University | 7/2025 (estimated)
