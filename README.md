@@ -2,9 +2,11 @@
  
 Hi there! 👋
 
-I am a soon-to-be Master of Science in Computer Science from Tampere University, specializing in Human-Technology Interaction. I have versatile skills in UX and UI design, accessibility, communication, and software development. My educational background in technical, business, and humanities studies provides me with a broad perspective and the ability to adapt to diverse situations. During my studies, I have successfully led multiple projects, worked in multicultural teams, and written many reports.
+I am a soon-to-be Master of Science in Computer Science from Tampere University, specializing in Human-Technology Interaction. Alongside my work as a UI/UX designer, I'm currently finishing my thesis on the cognitive accessibility of data-intensive web applications. I have versatile skills in UX and UI design, accessibility, communication, and software development, for example. My educational background in technical, business, and humanities studies provides me with a broad perspective and the ability to adapt to diverse situations. During my studies, I have successfully led multiple projects, worked in multicultural teams, and written many reports.
 
-I aspire to design user-friendly and accessible digital services. I am known as a social and empathetic team player, a booster of team spirit, and a strong communicator with an eye for detail and the ability to manage both the big picture and finer details. I thrive in collaborative work environments that encourage development and innovation. I am a committed and quick-learning professional who brings a wide range of skills, creativity, and positivity to any team. **My strengths lie in UX & UI design, graphic design, and building responsive websites, and I know also about accessibility.**
+Thanks to my technical background, I can communicate with developers, and explain technical details in a simple way to customers. I have trained many people to use different systems, know how to write clear documentation, and know how to listen and ask users the right questions to understand their expectations, needs, and pain points. 
+
+I aspire to help others, whether it's through accessible design or just assisting and giving training. I am known as a social and empathetic team player, a booster of team spirit, and a strong communicator with an eye for detail and the ability to manage both the big picture and finer details. I thrive in collaborative work environments that encourage development and innovation. I am a committed and quick-learning professional who brings a wide range of skills, creativity, and positivity to any team. 
 
 Please do not hesitate to contact me for more information! 🙂
 
@@ -22,13 +24,14 @@ Please do not hesitate to contact me for more information! 🙂
 - User personas, stories & scenarios
 - Usability testing & evaluation
 - Graphic design
+- Accessibility (WCAG)
 - Figma
 - Adobe InDesign & Photoshop
 - Canva
 - Miro
 - Mural
 
-### Programming
+### Programming Related
 - HTML5
 - CSS/Less
 - JavaScript
@@ -36,6 +39,7 @@ Please do not hesitate to contact me for more information! 🙂
 - Python
 - C++
 - Git
+- Jira
   
 ### CMS
 - Magento 2 / Adobe Commerce
@@ -47,16 +51,18 @@ Please do not hesitate to contact me for more information! 🙂
 - Search engine & conversion rate optimisation
 - Hotjar
 
-### Miscellaneous 
-- Accessibility (WCAG)
+### Soft Skills & Miscellaneous
 - Project management
+- Training
 - Social & teamwork skills
 - Communication
+- Empathy
 - Copywriting & content creation
-- Jira
+- Ability to learn quickly
+- Attention to detail
 
 ## 🏫 Education
-* Master of Science (Computer Science), Tampere University | 7/2025 (estimated)
+* Master of Science (Computer Science), Tampere University | 2025 (estimated)
 * Bachelor of Business Administration (Business Information Technology), Häme University of Applied Sciences | 2019
 * Bachelor of Business Administration (Business Economics), Tampere University of Applied Sciences | 2010
 * Bachelor of Arts (Nordic Philology), University of Oulu | 2008
