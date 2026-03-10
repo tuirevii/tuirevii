@@ -11,6 +11,7 @@ Please do not hesitate to contact me for more information! 🙂
 ## 📞 Contact Information
 * tuirevii@gmail.com
 * +358 40 487 1441
+* https://tuire.design/
 * https://www.linkedin.com/in/tuirevii/
 
 ## 🧰 Skills & Tools
